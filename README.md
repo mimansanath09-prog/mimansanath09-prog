@@ -7,6 +7,16 @@
 📊 Passionate about Data Engineering, AI, Analytics, and Healthcare Data Science
 🚀 Building real-world end-to-end analytics and AI projects using Python, SQL, Tableau, AWS, and Streamlit
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mimansa-nath-a68b97384/)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mimansanath09-prog&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimansanath09-prog&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🔥 Featured Projects
