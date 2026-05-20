@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mimansanath09-prog/mimansanath09-prog/main/banner.jpg" width="100%" />
+</p>
 # 👋 Hi, I'm Mimansa Nath
 
 🎓 Master’s Student in Information Technology & Management at UTD
